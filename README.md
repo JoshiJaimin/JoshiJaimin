@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshi Jaimin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer and Student from India</h3>
 
 - 🌱 I’m currently learning **Web development**
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaiminj50014361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiminj50014361" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaimin-joshi-095795229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaimin-joshi-095795229" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jaiminjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaiminjoshi" height="30" width="40" /></a>
 </p>
 
